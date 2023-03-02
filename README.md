@@ -99,4 +99,4 @@ We provide four modified SNN-appropriate few-shot learning methods in `examples`
 
 [1] Yang Li, Yiting Dong, Dongcheng Zhao, Yi Zeng. N-Omniglot: a Large-scale Neuromorphic Dataset for Spatio-temporal Sparse Few-shot Learning. figshare https://doi.org/10.6084/m9.figshare.16821427.v2 (2021).
 
-[2] Yang Li, Yiting Dong, Dongcheng Zhao, Yi Zeng. N-Omniglot: a Large-scale Neuromorphic Dataset for Spatio-temporal Sparse Few-shot Learning. arXiv preprint arXiv:2112.13230 (2021).
+[2] Li Y, Dong Y, Zhao D, et al. N-Omniglot, a large-scale neuromorphic dataset for spatio-temporal sparse few-shot learning[J]. Scientific Data, 2022, 9(1): 746.
