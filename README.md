@@ -1,6 +1,6 @@
 # N-Omniglot
 
-[[Paper]](https://arxiv.org/abs/2112.13230)  || [[Dataset]](https://figshare.com/articles/dataset/N-Omniglot/16821427)
+[[Paper]](https://www.nature.com/articles/s41597-022-01851-z)  || [[Dataset]](https://figshare.com/articles/dataset/N-Omniglot/16821427)
 
 N-Omniglot is a large neuromorphic few-shot learning dataset. It reconstructs strokes of Omniglot as videos and uses Davis346 to capture the writing of the characters. The recordings can be displayed using DV software's playback function (https://inivation.gitlab.io/dv/dv-docs/docs/getting-started.html). N-Omniglot is sparse and has little similarity between frames. It can be used for event-driven pattern recognition, few-shot learning and stroke generation.
 
